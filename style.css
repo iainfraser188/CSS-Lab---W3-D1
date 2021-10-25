@@ -14,18 +14,19 @@ header {
 }
 
 .breaking-news {
-    float: right;
+    float: left;
+    margin-left: 30vh;
 }
 
 
 aside {
-    position: absolute;
-    margin-left: 15vh;
+    float: left;
+    margin-left: 5vh
 
 }
 
 main {
-    margin-top: 30%;
+    margin-top: 50%;
     margin-bottom: 0;
     margin-right: 15vh;
     margin-left: 15vh;
@@ -77,6 +78,7 @@ main {
     margin-right: 15vh;
     margin-left: 15vh;
     width: 100;
+    
 }
 
 .comment-box {
@@ -94,6 +96,7 @@ main {
     margin-right: 15vh;
     margin-left: 15vh;
     width: 100;
+    line-height: 2em;
 }
 
 footer {
